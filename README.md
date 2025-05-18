@@ -23,7 +23,7 @@ Each product belongs to 2 or 3 categories, and the API includes full CRUD operat
 - AutoMapper
 - FluentValidation
 - Swagger / Swashbuckle
-- C# with Rider or Visual Studio
+- C# 
 
 ## API Endpoints
 ## Category

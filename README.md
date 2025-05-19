@@ -1,6 +1,6 @@
 # Product & Category Management API
 
-A RESTful API built with .NET 7, Entity Framework Core (Code-First), and SQLite to manage products and categories with a many-to-many relationship. 
+A RESTful API built with .NET 9, Entity Framework Core (Code-First), and SQLite to manage products and categories with a many-to-many relationship. 
 Each product belongs to 2 or 3 categories, and the API includes full CRUD operations, pagination, DTOs, validation, Swagger documentation, and service/repository patterns.
 
 ## Features
@@ -17,13 +17,13 @@ Each product belongs to 2 or 3 categories, and the API includes full CRUD operat
 
 ## Technology Stack
 
-- .NET 7
+- .NET 9
 - Entity Framework Core
 - SQLite
 - AutoMapper
 - FluentValidation
-- Swagger / Swashbuckle
-- C# with Rider or Visual Studio
+- Swagger
+- C# 
 
 ## API Endpoints
 ## Category

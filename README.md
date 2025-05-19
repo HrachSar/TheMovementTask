@@ -22,7 +22,7 @@ Each product belongs to 2 or 3 categories, and the API includes full CRUD operat
 - SQLite
 - AutoMapper
 - FluentValidation
-- Swagger / Swashbuckle
+- Swagger
 - C# 
 
 ## API Endpoints
